@@ -1,7 +1,7 @@
 // holaMundo.js
 
 function saludar() {
-    return "Hola Mundo!";
+    return "Hola Mundo";
 }
 
 module.exports = saludar;
